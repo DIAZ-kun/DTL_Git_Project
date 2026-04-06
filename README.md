@@ -6,7 +6,7 @@ Repository for DTL lab at COEP Technological University Pune.
 
 ```bash
 # Clone
-git clone https://github.com/<username>/<repo-name>.git
+git clone https://github.com/DIAZ-kun/DTL_Git_Project
 
 # Stage & Commit
 git add .
